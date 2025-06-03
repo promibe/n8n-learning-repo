@@ -1,0 +1,1 @@
+print('Welcome to Learning n8n for automation')
